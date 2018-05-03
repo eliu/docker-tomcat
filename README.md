@@ -1,5 +1,5 @@
 ### Supported tags and respective **``Dockerfile``** links
-- `latest`, `8.5-hap` [(Dockerfile)](https://github.com/eliu/docker-tomcat/blob/master/tomcat/8.5-hap/Dockerfile)
+- `latest`, `8.5-hap` [(Dockerfile)](https://github.com/eliu/docker-tomcat/blob/master/8.5-hap/Dockerfile)
 
 ### Base image: 
 - `tomcat:8.5`
