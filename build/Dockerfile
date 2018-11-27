@@ -1,4 +1,4 @@
-FROM tomcat:8.5
+FROM tomcat:8.5-slim
 
 LABEL maintainer="eliu <eliuhy@163.com>"
 
